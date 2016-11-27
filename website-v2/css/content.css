@@ -1,0 +1,45 @@
+body {
+    font-family:'Microsoft YaHei','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main_content {
+    text-align: center;
+}
+
+.block {
+    display: inline-block;
+    width: 260px;
+    margin-left: 10px;
+    text-align: center;
+    vertical-align: top;
+}
+.hs-service-icon .resource-list {
+    display: block;
+}
+h3 {
+    font-family:'Microsoft YaHei',sans-serif;
+}
+li {
+    font-family:'Microsoft YaHei',sans-serif;
+    text-align: left;
+    list-style-type: none;
+}
+
+.resource-list {
+    margin-left: 70px;
+}
+
+.require-list {
+    margin-left: 90px;
+}
+
+.platform-list {
+    margin-left: 70px;
+}
+.lab {
+    width:280px;
+}
+.lab-list {
+    margin-left:40px;
+    padding-left: 0px;
+}
