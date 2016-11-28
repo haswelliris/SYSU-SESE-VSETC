@@ -8,7 +8,7 @@ body {
 
 .block {
     display: inline-block;
-    width: 260px;
+    width: 250px;
     margin-left: 10px;
     text-align: center;
     vertical-align: top;
@@ -42,4 +42,10 @@ li {
 .lab-list {
     margin-left:40px;
     padding-left: 0px;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
 }

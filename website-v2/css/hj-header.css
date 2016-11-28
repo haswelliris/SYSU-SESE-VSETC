@@ -1,0 +1,42 @@
+#fixed-header {
+    background-color: #8c8c8e;
+}
+#hj-header-list {
+
+}
+
+.hj-header-item {
+    display: inline-block;
+    position: relative;
+    height: 44px;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+.nav>li>a {
+    color: white;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: transparent;
+    color: grey;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+
+footer {
+	padding: 10px;
+	bottom: 0;
+	width: 100%;
+	background-color: #dedede;
+	text-align: center;
+}
