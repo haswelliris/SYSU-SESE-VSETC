@@ -62,8 +62,9 @@ body{overflow-x: hidden;margin: 0;}
 #active label{ 
 	display: inline-block; 
 	width: 50px; 
-	height: 4px; 
-	border-radius: 2px; 
+	height: 10px; 
+	margin-left: 10px;
+	border-radius: 4px; 
 	background: #bbb; 
 	border-color: #777; 
 	cursor: pointer;
