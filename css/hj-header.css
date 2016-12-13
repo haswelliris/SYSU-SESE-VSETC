@@ -29,12 +29,3 @@
     -o-transition: all .3s;
     transition: all .3s;
 }
-
-
-footer {
-	padding: 10px;
-	bottom: 0;
-	width: 100%;
-	background-color: #dedede;
-	text-align: center;
-}
