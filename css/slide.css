@@ -4,6 +4,7 @@ body{overflow-x: hidden;margin: 0;}
 #sliders{
 } 
 #overflow{
+	/*width: 100%*/
 	width: 81%;
 	margin: auto;
 	overflow: hidden; 
