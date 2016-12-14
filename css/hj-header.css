@@ -29,3 +29,7 @@
     -o-transition: all .3s;
     transition: all .3s;
 }
+
+#nav-header {
+    background-color: #222222;
+}
