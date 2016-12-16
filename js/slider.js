@@ -1,6 +1,6 @@
 var count = 1;
 function Slide() {
-    count %= 3;
+    count %= 5;
     count++;
     var name = "slider" + count;
     var slider = document.getElementById(name);
