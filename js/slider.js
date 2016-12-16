@@ -7,7 +7,7 @@ function Slide() {
     slider.click();
 }
 window.onload = function () {
-    var t = setInterval("Slide()", 3000);
+    var t = setInterval("Slide()", 5000);
     var stop = document.getElementsByClassName("stop");
     var next = document.getElementsByClassName("next");
     for (var i = 0; i < stop.length; i++) {
