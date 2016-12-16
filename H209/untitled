@@ -1,0 +1,93 @@
+            <li id="page_Teach">
+              <div class="box">
+              <div class="wrapper">
+              <div class="col1"></div>
+              <div class="table">
+                <table>
+                  <tr >
+                    <td class="col1">序号 </td>
+                    <td class="col2"><strong>实验项目</strong> </td>
+                    <td class="col3"><strong>详细信息</strong> </td>
+                  </tr>
+
+                  <tr >
+                    <td class="col1">1</td>
+                    <td class="col2">反渗透工艺-水处理仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+
+                  <tr >
+                    <td class="col1">2</td>
+                    <td class="col2">SBR工艺-水处理仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+
+                  <tr >
+                    <td class="col1">3</td>
+                    <td class="col2">USAB工艺-水处理仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+
+                  <tr >
+                    <td class="col1">4</td>
+                    <td class="col2">生物接触氧化法工艺-水处理仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+                  <tr >
+                    <td class="col1">5</td>
+                    <td class="col2">AB工艺-水处理仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+                  <tr >
+                    <td class="col1">6</td>
+                    <td class="col2">气浮工艺-水处理仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+                  <tr >
+                    <td class="col1">7</td>
+                    <td class="col2">氧化沟工艺-水处理仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+                  <tr >
+                    <td class="col1">8</td>
+                    <td class="col2">AAO工艺-水处理仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+                  <tr >
+                    <td class="col1">9</td>
+                    <td class="col2">AAO3D虚拟仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+                  <tr >
+                    <td class="col1">10</td>
+                    <td class="col2">工业尾气催化燃烧工艺仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+                  <tr >
+                    <td class="col1">11</td>
+                    <td class="col2">废弃物热力氧化焚烧工艺仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+                  <tr >
+                    <td class="col1">12</td>
+                    <td class="col2">城市给水处理仿真 </td>
+                    <td class="col3"><a href="#!/page_More" class="button1">详情</a></td>
+
+                  </tr>
+                </table>
+                </div>
+                </div>
+              </div>
+              </div>
+            </li>
