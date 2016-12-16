@@ -10,6 +10,7 @@
     <link rel='stylesheet' href="css/fa-style.css">
     <link rel='stylesheet' href="css/font-awesome.css">
 	<link rel="stylesheet" type="text/css" href="css/slide.css">
+    <script type="text/javascript" src="js/slider.js"></script>
 </head>
 <body>
 <div class="container-fluid">
@@ -64,24 +65,23 @@
     </div>
 </div>
 -->
-
 <!-- slide bar-->
 	<div id="bd"> 
 		<input checked type="radio" name="slider" id="slider1"> 
 		<input type="radio" name="slider" id="slider2"> 
-		<input type="radio" name="slider" id="slider3"> 
-		<input type="radio" name="slider" id="slider4"> 
-		<input type="radio" name="slider" id="slider5"> 
+		<input type="radio" name="slider" id="slider3">
 		<div id="sliders"> 
 			<div id="overflow"> 
 				<div class="inner"> 
 					<article> 
 						<div class="info"> 
 							<a href="http://www.simnet.net.cn/SysuSimnet/">
-                            <h1>虚拟仿真实验教学中心</h1> 
+                            <h1 style="color: black;">虚拟仿真实验教学中心</h1> 
 							</a> 
 						</div> 
-						<img class="slideImg" src="images/pic1.jpg"/> 
+							<a href="http://www.simnet.net.cn/SysuSimnet/" title="环境科学与工程虚拟仿真实验教学中心" target="_blank">
+						<img class="slideImg" src="images/12.jpg"/> 
+							</a>
 					</article> 
 					<article> 
 						<div class="info"> 
@@ -89,7 +89,9 @@
                             <h1>虚拟仿真实验教学中心</h1> 
 							</a> 
 						</div> 
-						<img class="slideImg" src="images/pic2.jpg"/> 
+							<a href="http://www.simnet.net.cn/SysuSimnet/" title="环境科学与工程虚拟仿真实验教学中心" target="_blank">
+						<img class="slideImg" src="images/11.jpg"/> 
+							</a>
 					</article> 
 					<article> 
 						<div class="info"> 
@@ -97,40 +99,22 @@
                             <h1>虚拟仿真实验教学中心</h1> 
 							</a> 
 						</div> 
+							<a href="http://www.simnet.net.cn/SysuSimnet/" title="环境科学与工程虚拟仿真实验教学中心" target="_blank">
 						<img class="slideImg" src="images/pic3.jpg"/> 
-					</article> 
-					<article> 
-						<div class="info"> 
-							<a href="http://www.simnet.net.cn/SysuSimnet/">
-                            <h1>虚拟仿真实验教学中心</h1> 
-							</a> 
-						</div> 
-						<img class="slideImg" src="images/pic4.jpg"/> 
-					</article> 
-					<article> 
-						<div class="info"> 
-							<a href="http://www.simnet.net.cn/SysuSimnet/">
-                            <h1>虚拟仿真实验教学中心</h1> 
-							</a> 
-						</div> 
-						<img class="slideImg" src="images/pic5.jpg"/> 
+							</a>
 					</article> 
 				</div> 
 			</div> 
 		</div> 
 		<div id="controls"> 
-			<label for="slider1"></label> 
-			<label for="slider2"></label> 
-			<label for="slider3"></label> 
-			<label for="slider4"></label> 
-			<label for="slider5"></label> 
+			<label for="slider1" class="next"></label> 
+			<label for="slider2" class="next"></label> 
+			<label for="slider3" class="next"></label>
 		</div> 
 		<div id="active"> 
-			<label for="slider1"></label> 
-			<label for="slider2"></label> 
-			<label for="slider3"></label> 
-			<label for="slider4"></label> 
-			<label for="slider5"></label> 
+			<label for="slider1" class="stop"></label> 
+			<label for="slider2" class="stop"></label> 
+			<label for="slider3" class="stop"></label>
 		</div> 
 	</div>
 
